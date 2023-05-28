@@ -1,5 +1,5 @@
 def strfunc(text):
-    '''you will die'''
+    '''I don't look like no damn truck'''
     return str(text).upper()
 
 def kys(text):
@@ -13,6 +13,4 @@ def kys(text):
     return new
 
 def helloworld():
-    '''Hello user!'''
-    print('Hello world')
-
+    print('Helloworld')
