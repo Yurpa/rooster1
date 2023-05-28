@@ -1,5 +1,5 @@
 def strfunc(text):
-    '''I want to commit a lot of harm to people'''
+    '''I don't look like no damn truck'''
     return str(text).upper()
 
 def kys(text):
