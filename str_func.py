@@ -1,5 +1,5 @@
 def strfunc(text):
-    '''Fuck you team lead'''
+    '''AAAAAAAAAAAAAAAAAAAAAAAAAAA'''
     return str(text).upper()
 
 def kys(text):
