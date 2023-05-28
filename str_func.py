@@ -1,5 +1,5 @@
 def strfunc(text):
-    '''AAAAAAAAAAAAAAAAAAAAAAAAAAA'''
+    '''I don't look like no damn truck'''
     return str(text).upper()
 
 def kys(text):
@@ -11,3 +11,6 @@ def kys(text):
         newnew.append(i.capitalize())
     new = ' '.join(newnew)
     return new
+
+def helloworld():
+    print('Helloworld')
